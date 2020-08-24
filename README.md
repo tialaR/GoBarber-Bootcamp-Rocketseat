@@ -10,6 +10,9 @@ Schedules are illustrated as a list and are displayed according to the month, da
 <p>
 The provider can also change your registration details and insert an avatar to your profile.</p>
 
+- Front-end Mobile: https://github.com/tialaR/GoBarber-Mobile-Bootcamp-Rocketseat/blob/master/README.md
+- Back-end: https://github.com/tialaR/GoBarber-back-end-Bootcamp-Rocketseat
+
 <br/>
 
 ![](tela01.png)
